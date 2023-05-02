@@ -3,9 +3,8 @@
 </script>
 
 <main>
-<Nav/>
+  <header><Nav/></header>
+  <h1>jason kuffler</h1>
+
 </main>
 
-<style>
-
-</style>
