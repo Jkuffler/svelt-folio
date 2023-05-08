@@ -4,7 +4,7 @@
 
   <nav>
     {#each sections as section, i}
-      <a href={section}> <button>{section}</button> </a>
+      <a href=#{section}> <button>{section}</button> </a>
     {/each}
   </nav>
 

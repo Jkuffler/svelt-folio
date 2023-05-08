@@ -1,10 +1,11 @@
 <script>
   import Nav from './Nav.svelte';
+  import About from './About.svelte';
 </script>
 
 <main>
   <header><Nav/></header>
-  <h1>jason kuffler</h1>
+  <About/>
 
 </main>
 
